@@ -144,33 +144,6 @@ The Power BI dashboard provides an interactive view of:
 * Optimize discount strategies to balance revenue and profitability
 * Focus marketing efforts on high-value customer segments
 * Highlight top-rated products in promotional campaigns
-
----
-
-## Project Structure
-
-```text
-Customer-Behavior-Analysis/
-│
-├── Dataset/
-├── Python/
-│   ├── data_cleaning.ipynb
-│   ├── eda.ipynb
-│
-├── SQL/
-│   ├── sql_queries.sql
-│
-├── PowerBI/
-│   ├── dashboard.pbix
-│
-├── Report/
-│   ├── Customer_Shopping_Behavior_Analysis.pdf
-│
-├── Presentation/
-│   ├── Gamma_Presentation.pdf
-│
-└── README.md
-```
 ## Author
 
 **Data Analyst Portfolio Project**
