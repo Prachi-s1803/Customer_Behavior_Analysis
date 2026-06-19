@@ -95,7 +95,7 @@ Key analyses performed:
 ### 5. Power BI Dashboard
 
 Built an interactive dashboard to visualize key business metrics and customer insights.
-![Dashboard Overview](Images/dashboard_overview.png)
+![Dashboard Overview](dashboard_overview.png)
 
 Dashboard highlights:
 
