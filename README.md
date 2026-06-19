@@ -73,7 +73,7 @@ The dataset contains customer shopping transactions across multiple product cate
 * Product category performance
 * Subscription behavior insights
 * Revenue trend exploration
-* Discount and promotion analysis
+* Discount analysis
 
 ### 4. PostgreSQL Analysis
 
