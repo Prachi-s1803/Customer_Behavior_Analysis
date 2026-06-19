@@ -171,36 +171,6 @@ Customer-Behavior-Analysis/
 │
 └── README.md
 ```
-
----
-
-## How to Run
-
-### Python Analysis
-
-1. Clone the repository
-2. Install required libraries
-
-```bash
-pip install pandas numpy matplotlib seaborn sqlalchemy psycopg2
-```
-
-3. Run the Python notebooks/scripts for data cleaning and EDA.
-
-### PostgreSQL Analysis
-
-1. Create a PostgreSQL database
-2. Import the cleaned dataset
-3. Execute the SQL queries provided in the SQL folder
-
-### Power BI Dashboard
-
-1. Open the `.pbix` file in Power BI Desktop
-2. Refresh the data connection if required
-3. Explore the interactive dashboard
-
----
-
 ## Author
 
 **Data Analyst Portfolio Project**
